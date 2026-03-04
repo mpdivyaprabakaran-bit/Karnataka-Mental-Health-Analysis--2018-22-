@@ -5,7 +5,9 @@
 This project develops a unified "District Health Fact Sheet" for Karnataka by integrating multiple administrative and socio-demographic datasets. It tracks the prevalence of various mental health conditions across all districts over a four-year period to assess the state's mental health burden against its existing institutional capacity.
 
 **Objectives**:
+
 Trend Identification: Visualize year-on-year growth or decline in specific mental health conditions (SMD, CMD, Substance Abuse).
+
 Resource Gap Analysis: Calculate Patient-to-Provider ratios by correlating district patient volumes with state-level professional counts (Psychiatrists, Psychologists, and Nurses).
 Socio-Economic Correlation: Investigate statistical relationships between district literacy rates, alcohol consumption, and reported mental health cases.
 Financial Efficiency Mapping: Assess "Budget per Patient" metrics by merging state budget approvals with total patient loads.
