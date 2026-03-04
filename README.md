@@ -1,5 +1,5 @@
-# Karnataka-Mental-Health-Analysis--2018-22-
-A longitudinal analysis of Psychiatric Morbidity and Resource Gaps in Karnataka (2018-2022)
+# Karnataka-Mental-Health-Analysis 2018-22
+**A longitudinal analysis of Psychiatric Morbidity and Resource Gaps in Karnataka (2018-2022)**
 
 **Project Overview**:
 This project develops a unified "District Health Fact Sheet" for Karnataka by integrating multiple administrative and socio-demographic datasets. It tracks the prevalence of various mental health conditions across all districts over a four-year period to assess the state's mental health burden against its existing institutional capacity.
